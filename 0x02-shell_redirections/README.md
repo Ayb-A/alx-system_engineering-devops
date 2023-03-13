@@ -1,0 +1,1 @@
+I test Shell redirections
