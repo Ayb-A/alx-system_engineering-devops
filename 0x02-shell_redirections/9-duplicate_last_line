@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 2 iacta | sed -n '2,2p' >> ./iacta
+tail -n 2 iacta | sed -n '1,1p' >> ./iacta
